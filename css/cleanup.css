@@ -1,1 +1,12 @@
 /* write your override styles here */
+div .tag-1 {
+  display: none;
+}
+
+.parent{
+  display: none;
+}
+
+#tag-2 {
+  display: none;
+}
